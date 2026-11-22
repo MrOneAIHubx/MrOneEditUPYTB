@@ -1,5 +1,6 @@
 {
-  "version": "1.12.44",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.44/MrOneEditUPYTB_Setup_1.12.44.exe",
-  "notes": "- Cải thiện nhận diện video công chiếu đã kết thúc và xử lý video còn đang được YouTube xử lý.\n- Bản cài Windows cập nhật qua bộ Setup."
+  "version": "1.12.45",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.45/MrOneEditUPYTB_Setup_1.12.45.exe",
+  "notes": "- Khóa kế hoạch đã duyệt, khôi phục Auto có hoàn tác và báo lỗi lưu Editor.\n- Thêm chế độ Gọn, Tổng quan Auto, Việc cần xử lý và kiểm tra FFmpeg.\n- Giới hạn quyền Telegram theo ID người dùng, giữ hàng đợi khi máy bận và xác minh bộ cài trước khi cập nhật.",
+  "sha256": "f431e2ac496ca13e8a51d19d7401833ac1d3b6bd7a20efa5aa6255c77317be0d"
 }
