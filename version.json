@@ -1,6 +1,6 @@
 {
-  "version": "1.12.49",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.49/MrOneEditUPYTB_Setup_1.12.49.exe",
-  "notes": "- Tab 🖼 Bìa: XEM TRƯỚC KÉO-THẢ — kéo khung chữ, kéo góc đổi cỡ vùng chữ, kéo/lăn chuột để dời và phóng ảnh; chọn 1 / 2 / 3 dòng; 6 bộ màu nhanh; chọn 1 ảnh mẫu + tên mẫu để xem trước.\n- 💽 Tạm ngưng xuất video khi ổ còn dưới N GB (mặc định tắt, bật từng kênh, mặc định 30 GB): video đã xuất vẫn đăng, đăng xong tự xóa rồi render tiếp.\n- 🔑 Kho file JSON: quota hôm nay từng file + cảnh báo sắp hết, kênh nào dùng file nào, nút gỡ kênh khỏi JSON / chuyển sang JSON khác, giới hạn quota riêng từng file.\n- Bộ cài tự tắt tool (cả phần Đăng YouTube chạy nền) trước khi cài — hết lỗi \"unable to automatically close\".\n- Sửa lỗi ép số dòng tên truyện trên bìa.",
-  "sha256": "ceb663385bbdfae3f7c2b7ab4ec4235bdf19681bd432bc45bfd66452be4fc6ac"
+  "version": "1.12.50",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.50/MrOneEditUPYTB_Setup_1.12.50.exe",
+  "notes": "- HẾT NHẤP NHÁY khi đang render / upload: các tab Tổng quan, Hàng đợi, Kênh đã lưu… dựng lại phía dưới ảnh chụp tab cũ, xong mới hiện — không còn cảnh tab trống rồi hiện dần.\n- Tab 🖼 Bìa: bấm màu nhanh, Đặt nhanh vị trí, Tự nhận diện bố cục, kéo-thả / lăn chuột trên ảnh, ↺ Ảnh về giữa → chỉ cập nhật đúng chỗ đổi, không dựng lại cả tab; đổi kênh / khung thì dựng ngầm rồi tráo, giữ chỗ đang cuộn.\n- Gồm toàn bộ 1.12.49: xem trước kéo-thả, ngưng xuất khi ổ gần đầy, kho file JSON + cảnh báo quota, bộ cài tự tắt tool.",
+  "sha256": "d342627c7d4ab11402cebfd589451afd27e61f0b4f7adc7604d234138b46275b"
 }
