@@ -1,6 +1,6 @@
 {
-  "version": "1.12.50",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.50/MrOneEditUPYTB_Setup_1.12.50.exe",
-  "notes": "- HẾT NHẤP NHÁY khi đang render / upload: các tab Tổng quan, Hàng đợi, Kênh đã lưu… dựng lại phía dưới ảnh chụp tab cũ, xong mới hiện — không còn cảnh tab trống rồi hiện dần.\n- Tab 🖼 Bìa: bấm màu nhanh, Đặt nhanh vị trí, Tự nhận diện bố cục, kéo-thả / lăn chuột trên ảnh, ↺ Ảnh về giữa → chỉ cập nhật đúng chỗ đổi, không dựng lại cả tab; đổi kênh / khung thì dựng ngầm rồi tráo, giữ chỗ đang cuộn.\n- Gồm toàn bộ 1.12.49: xem trước kéo-thả, ngưng xuất khi ổ gần đầy, kho file JSON + cảnh báo quota, bộ cài tự tắt tool.",
-  "sha256": "d342627c7d4ab11402cebfd589451afd27e61f0b4f7adc7604d234138b46275b"
+  "version": "1.12.51",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.51/MrOneEditUPYTB_Setup_1.12.51.exe",
+  "notes": "- HẾT NHẤP NHÁY toàn bộ cửa sổ Auto: mọi lần vẽ lại (đang render / upload, bấm Lưu, Làm mới, đổi tab) đều giữ ảnh tab cũ tới khi phần mới vẽ xong rồi đổi 1 lần — không còn cảnh tab trống rồi hiện dần.\n- Đổi tab: tab có dữ liệu mới thì chờ ~nửa giây (vẫn thấy tab cũ), tab không đổi thì mở ngay. Phần trăm render / upload vẫn chạy tại chỗ như cũ.\n- Tab 🖼 Bìa: chỉnh màu, vị trí, kéo-thả, lăn chuột chỉ cập nhật đúng chỗ đổi; đổi kênh / khung thì dựng ngầm rồi tráo.\n- An toàn: có cửa sổ khác đè lên / thu nhỏ / khóa màn hình thì không phủ ảnh; ảnh phủ tự gỡ tối đa sau 3 giây.",
+  "sha256": "c583a3579b273348c653fad9cda56ea6f1462a6422aabf944bc802977b88b867"
 }
