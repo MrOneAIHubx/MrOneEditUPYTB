@@ -1,6 +1,6 @@
 {
-  "version": "1.12.45",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.45/MrOneEditUPYTB_Setup_1.12.45.exe",
-  "notes": "- Khóa kế hoạch đã duyệt, khôi phục Auto có hoàn tác và báo lỗi lưu Editor.\n- Thêm chế độ Gọn, Tổng quan Auto, Việc cần xử lý và kiểm tra FFmpeg.\n- Giới hạn quyền Telegram theo ID người dùng, giữ hàng đợi khi máy bận và xác minh bộ cài trước khi cập nhật.",
-  "sha256": "f431e2ac496ca13e8a51d19d7401833ac1d3b6bd7a20efa5aa6255c77317be0d"
+  "version": "1.12.49",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.49/MrOneEditUPYTB_Setup_1.12.49.exe",
+  "notes": "- Tab 🖼 Bìa: XEM TRƯỚC KÉO-THẢ — kéo khung chữ, kéo góc đổi cỡ vùng chữ, kéo/lăn chuột để dời và phóng ảnh; chọn 1 / 2 / 3 dòng; 6 bộ màu nhanh; chọn 1 ảnh mẫu + tên mẫu để xem trước.\n- 💽 Tạm ngưng xuất video khi ổ còn dưới N GB (mặc định tắt, bật từng kênh, mặc định 30 GB): video đã xuất vẫn đăng, đăng xong tự xóa rồi render tiếp.\n- 🔑 Kho file JSON: quota hôm nay từng file + cảnh báo sắp hết, kênh nào dùng file nào, nút gỡ kênh khỏi JSON / chuyển sang JSON khác, giới hạn quota riêng từng file.\n- Sửa lỗi ép số dòng tên truyện trên bìa.",
+  "sha256": "fb865831f1eecec51b98523af773d56232e91fb03a719c8fac1f68f72f369dfc"
 }
