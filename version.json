@@ -1,6 +1,6 @@
 {
-  "version": "1.12.54",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.54/MrOneEditUPYTB_Setup_1.12.54.exe",
-  "notes": "- Bìa theo mẫu: thêm ⑤ 🧑 Ghép nhân vật (MC) của Mẫu render lên thumbnail (mặc định TẮT) — vị trí Như Mẫu render / Góc dưới trái / Góc dưới phải; ảnh xem trước hiện luôn MC.\n- Xem trước tab Bìa hiện luôn 🎨 Đồng bộ màu theo ảnh mẫu (không cần vẽ thử).\n- Gemini dự phòng: báo rõ lý do khi Gemini chưa vẽ được; bộ đếm chờ (vẽ ảnh / mạng upload) tự đếm lại khi lần lỗi trước đã lâu.\n- Gồm mọi nâng cấp 1.12.53: cỡ chữ từng dòng, xuất/nhập font, Gemini vẽ dự phòng, upload mạng thử lại, tiêu đề thông minh, tìm/lọc.",
-  "sha256": "ad5c929ba74f3d74b30e7e2e3a2ab3c7c8c219f94dd0d7c3a869edfcb05633cd"
+  "version": "1.12.55",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.55/MrOneEditUPYTB_Setup_1.12.55.exe",
+  "notes": "- Bộ cài có SẴN thêm 6 font: DFVN Them Bones (Regular, Alternative, Regular Outline, Alternative Outline, Underlines) và TH Death World — cài tool lên máy nào cũng có, không cần xuất/nhập font.\n- Gồm mọi nâng cấp 1.12.53 + 1.12.54 (MC trên bìa, cỡ chữ từng dòng, Gemini dự phòng, tiêu đề thông minh, tìm/lọc…).",
+  "sha256": "46e43e5c6b7cc31e6f0056f1285e3aa7765852e550d01ab07f6ecc12d512e0f8"
 }
