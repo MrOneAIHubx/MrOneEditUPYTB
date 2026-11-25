@@ -1,6 +1,5 @@
 {
-  "version": "1.12.57",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.57/MrOneEditUPYTB_Setup_1.12.57.exe",
-  "notes": "- Bìa ⑥: 🎲 Vẽ 3 phương án — AI vẽ 3 phong cách khác nhau (điện ảnh tối / ấm rợn / tranh minh họa), bấm ✓ Dùng PA để lấy làm ẢNH MẪU → mọi video sau đồng nhất theo phương án đó.\n- Bìa ⑥: khung so sánh hiện BÌA vẽ thử hoàn chỉnh (có chữ + khung + MC), không còn hiện ảnh nền chưa chữ gây hiểu nhầm.\n- Gồm 1.12.56: chọn ảnh MC riêng trên bìa (tự tách nền), chặn lưu khi thiếu MC; font DFVN + TH Death World có sẵn.",
-  "sha256": "3f1dc1ae9320310f9973c1891b1e746a4aa389905f1d99c0587c30e5134a05d8"
+  "version": "1.12.60",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.60/MrOneEditUPYTB_Setup_1.12.60.exe",
+  "sha256": "0c39a2bed5c708c460bb28d380dd30fad5b1152d65a43f079e9e5f29b2674269"
 }
