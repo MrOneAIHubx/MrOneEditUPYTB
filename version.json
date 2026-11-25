@@ -1,6 +1,6 @@
 {
-  "version": "1.12.51",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.51/MrOneEditUPYTB_Setup_1.12.51.exe",
-  "notes": "- HẾT NHẤP NHÁY toàn bộ cửa sổ Auto: mọi lần vẽ lại (đang render / upload, bấm Lưu, Làm mới, đổi tab) đều giữ ảnh tab cũ tới khi phần mới vẽ xong rồi đổi 1 lần — không còn cảnh tab trống rồi hiện dần.\n- Đổi tab: tab có dữ liệu mới thì chờ ~nửa giây (vẫn thấy tab cũ), tab không đổi thì mở ngay. Phần trăm render / upload vẫn chạy tại chỗ như cũ.\n- Tab 🖼 Bìa: chỉnh màu, vị trí, kéo-thả, lăn chuột chỉ cập nhật đúng chỗ đổi; đổi kênh / khung thì dựng ngầm rồi tráo.\n- An toàn: có cửa sổ khác đè lên / thu nhỏ / khóa màn hình thì không phủ ảnh; ảnh phủ tự gỡ tối đa sau 3 giây.",
-  "sha256": "c583a3579b273348c653fad9cda56ea6f1462a6422aabf944bc802977b88b867"
+  "version": "1.12.53",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.53/MrOneEditUPYTB_Setup_1.12.53.exe",
+  "notes": "- Bìa: CỠ CHỮ RIÊNG dòng 2 / dòng 3 (40–100% so với dòng 1).\n- Bìa: 📦 Xuất font ra 1 file zip; máy mới bấm ＋ Thêm font… chọn file zip là có đủ font (kể cả font cài trong Windows).\n- Bìa: sửa nền \"Ước chừng\" khi nhân vật ở Trái / Giữa (hết dải đen, hết viền cứng).\n- ⚙ Thiết lập ④ (mặc định TẮT): 🎨 ChatGPT hết lượt vẽ → Gemini vẽ ảnh đó, video sau vẫn dùng ChatGPT; cả 2 hết lượt → chờ rồi tự vẽ lại, không tính lỗi.\n- ⚙ Thiết lập ④ (mặc định TẮT): 📶 upload lỗi mạng → tự thử lại giãn dần, không tính lỗi, giữ mốc.\n- ⚙ Thiết lập ④ (mặc định TẮT): 🧠 tiêu đề thông minh — 3 phương án, tool chấm điểm, chọn cái tốt nhất; tab 👀 Duyệt bấm để đổi.\n- Hàng đợi + Đã render: ô 🔎 tìm (gõ không dấu vẫn ra) + lọc theo trạng thái.",
+  "sha256": "196bd0930fb7a4d3a3ab3a62a017580cc6e18a30304ab539b15eb5ed8005a515"
 }
