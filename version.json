@@ -1,6 +1,6 @@
 {
-  "version": "1.12.53",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.53/MrOneEditUPYTB_Setup_1.12.53.exe",
-  "notes": "- Bìa: CỠ CHỮ RIÊNG dòng 2 / dòng 3 (40–100% so với dòng 1).\n- Bìa: 📦 Xuất font ra 1 file zip; máy mới bấm ＋ Thêm font… chọn file zip là có đủ font (kể cả font cài trong Windows).\n- Bìa: sửa nền \"Ước chừng\" khi nhân vật ở Trái / Giữa (hết dải đen, hết viền cứng).\n- ⚙ Thiết lập ④ (mặc định TẮT): 🎨 ChatGPT hết lượt vẽ → Gemini vẽ ảnh đó, video sau vẫn dùng ChatGPT; cả 2 hết lượt → chờ rồi tự vẽ lại, không tính lỗi.\n- ⚙ Thiết lập ④ (mặc định TẮT): 📶 upload lỗi mạng → tự thử lại giãn dần, không tính lỗi, giữ mốc.\n- ⚙ Thiết lập ④ (mặc định TẮT): 🧠 tiêu đề thông minh — 3 phương án, tool chấm điểm, chọn cái tốt nhất; tab 👀 Duyệt bấm để đổi.\n- Hàng đợi + Đã render: ô 🔎 tìm (gõ không dấu vẫn ra) + lọc theo trạng thái.",
-  "sha256": "196bd0930fb7a4d3a3ab3a62a017580cc6e18a30304ab539b15eb5ed8005a515"
+  "version": "1.12.54",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.54/MrOneEditUPYTB_Setup_1.12.54.exe",
+  "notes": "- Bìa theo mẫu: thêm ⑤ 🧑 Ghép nhân vật (MC) của Mẫu render lên thumbnail (mặc định TẮT) — vị trí Như Mẫu render / Góc dưới trái / Góc dưới phải; ảnh xem trước hiện luôn MC.\n- Xem trước tab Bìa hiện luôn 🎨 Đồng bộ màu theo ảnh mẫu (không cần vẽ thử).\n- Gemini dự phòng: báo rõ lý do khi Gemini chưa vẽ được; bộ đếm chờ (vẽ ảnh / mạng upload) tự đếm lại khi lần lỗi trước đã lâu.\n- Gồm mọi nâng cấp 1.12.53: cỡ chữ từng dòng, xuất/nhập font, Gemini vẽ dự phòng, upload mạng thử lại, tiêu đề thông minh, tìm/lọc.",
+  "sha256": "ad5c929ba74f3d74b30e7e2e3a2ab3c7c8c219f94dd0d7c3a869edfcb05633cd"
 }
