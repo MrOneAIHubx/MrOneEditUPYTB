@@ -1,6 +1,6 @@
 {
-  "version": "1.12.55",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.55/MrOneEditUPYTB_Setup_1.12.55.exe",
-  "notes": "- Bộ cài có SẴN thêm 6 font: DFVN Them Bones (Regular, Alternative, Regular Outline, Alternative Outline, Underlines) và TH Death World — cài tool lên máy nào cũng có, không cần xuất/nhập font.\n- Gồm mọi nâng cấp 1.12.53 + 1.12.54 (MC trên bìa, cỡ chữ từng dòng, Gemini dự phòng, tiêu đề thông minh, tìm/lọc…).",
-  "sha256": "46e43e5c6b7cc31e6f0056f1285e3aa7765852e550d01ab07f6ecc12d512e0f8"
+  "version": "1.12.57",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.57/MrOneEditUPYTB_Setup_1.12.57.exe",
+  "notes": "- Bìa ⑥: 🎲 Vẽ 3 phương án — AI vẽ 3 phong cách khác nhau (điện ảnh tối / ấm rợn / tranh minh họa), bấm ✓ Dùng PA để lấy làm ẢNH MẪU → mọi video sau đồng nhất theo phương án đó.\n- Bìa ⑥: khung so sánh hiện BÌA vẽ thử hoàn chỉnh (có chữ + khung + MC), không còn hiện ảnh nền chưa chữ gây hiểu nhầm.\n- Gồm 1.12.56: chọn ảnh MC riêng trên bìa (tự tách nền), chặn lưu khi thiếu MC; font DFVN + TH Death World có sẵn.",
+  "sha256": "3f1dc1ae9320310f9973c1891b1e746a4aa389905f1d99c0587c30e5134a05d8"
 }
