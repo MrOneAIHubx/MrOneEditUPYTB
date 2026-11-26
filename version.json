@@ -1,6 +1,6 @@
 {
-    "version":  "1.12.62",
-    "url":  "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.62/MrOneEditUPYTB_Setup_1.12.62.exe",
-    "notes":  "- Xóa kênh đang / bị kẹt \"Đang upload\": gõ chữ XÓA để xác nhận là xóa được (tool dừng upload, bỏ video up dở).\n- Gồm 1.12.61: bộ cài kèm ffmpeg + ffprobe + ffplay + deno; nút 📂 Chọn FFmpeg…; bìa công chiếu MC đối diện chữ, nền video có chữ.",
-    "sha256":  "c33a002395609d77ea6a9529ad0cda1cdf3e6d12890c921299e10b7d07387f42"
+    "version":  "1.12.63",
+    "url":  "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.63/MrOneEditUPYTB_Setup_1.12.63.exe",
+    "notes":  "- Xóa kênh kẹt \"Đang upload\": hộp xác nhận có logo + nút 📋 Copy chữ XÓA; gõ XÓA / XOÁ / xoa đều nhận.\n- Gồm 1.12.61–1.12.62: bộ cài kèm ffmpeg + ffprobe + ffplay + deno; nút 📂 Chọn FFmpeg…; bìa công chiếu MC đối diện chữ, nền video có chữ.",
+    "sha256":  "b7f9d6d392a9f3f47788c6d93c7405d3b093c501686807e03d557da6437627be"
 }
