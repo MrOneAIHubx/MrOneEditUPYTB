@@ -1,5 +1,6 @@
 {
-  "version": "1.12.60",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.60/MrOneEditUPYTB_Setup_1.12.60.exe",
-  "sha256": "0c39a2bed5c708c460bb28d380dd30fad5b1152d65a43f079e9e5f29b2674269"
+    "version":  "1.12.61",
+    "url":  "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.61/MrOneEditUPYTB_Setup_1.12.61.exe",
+    "notes":  "- Bìa công chiếu: MC Tự động đặt phía ĐỐI DIỆN chữ (không đè tên truyện); ảnh nền trong video có chữ + khung như bìa (không MC); video nhân vật đặt góc đối diện chữ.\n- Bộ cài kèm sẵn ffmpeg + ffprobe + ffplay + deno + nút 📂 Chọn FFmpeg… ở Cài đặt nếu máy nào vẫn thiếu.\n- Gồm 1.12.59–1.12.60: sửa đơ cửa sổ Auto sau Vẽ 3 phương án; xóa kênh đang render; báo đúng lỗi đọc độ dài audio.",
+    "sha256":  "701721d5c8588365ddcef24cd07c97e7078cef8b272d007a595a5cfa5ae4f6da"
 }
