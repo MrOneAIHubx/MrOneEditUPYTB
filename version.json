@@ -1,5 +1,6 @@
 {
-  "version": "1.12.67",
-  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.67/MrOneEditUPYTB_Setup_1.12.67.exe",
-  "notes": "- Ưu tiên xuất TURBO (nhanh hơn nhiều, file nhẹ hơn) cho Auto thường + công chiếu: MC / hiệu ứng dài tự lặp 2 phút đầu nên Turbo chạy được gần như mọi video; ngưỡng hạ còn 2 vòng lặp.\n- Không chạy Turbo thì nhật ký ghi rõ lý do; Mẫu render có chú thích.\n- Sửa lỗi WinError 10061 (máy từ chối kết nối) do proxy/VPN cũ đã tắt: tool tự bỏ proxy và thử lại, vẫn lỗi thì báo cách xử lý.\n- Tab Đã render luôn giữ 250 video gần nhất.\n- Gồm toàn bộ sửa lỗi 1.12.66 (hết kẹt 100%, tự xóa nền đen MC, font Jolly, giao diện Auto nhẹ)."
+    "version":  "1.12.68",
+    "url":  "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.68/MrOneEditUPYTB_Setup_1.12.68.exe",
+    "notes":  "- Ưu tiên xuất TURBO (nhanh hơn nhiều, file nhẹ hơn) cho Auto thường + công chiếu: MC / hiệu ứng dài tự lặp 2 phút đầu nên Turbo chạy được gần như mọi video; ngưỡng hạ còn 2 vòng lặp.\n- Không chạy Turbo thì nhật ký ghi rõ lý do; Mẫu render có chú thích.\n- Sửa lỗi WinError 10061 (máy từ chối kết nối) do proxy/VPN cũ đã tắt: tool tự bỏ proxy và thử lại, vẫn lỗi thì báo cách xử lý.\n- Chống lỡ công chiếu: quét bù ngoài khung giờ (mở tool là quét, 30 phút/lần) bắt công chiếu đã xong trong 24 giờ qua; công chiếu xong luôn được nhận ra; video lỗi/kẹt không còn chặn video mới.\n- Báo Telegram khi quét kênh nguồn lỗi liên tục, hoặc công chiếu quá giờ mà chưa làm / chưa đăng.\n- Tab Đã render luôn giữ 250 video gần nhất.\n- Gồm toàn bộ sửa lỗi 1.12.66 (hết kẹt 100%, tự xóa nền đen MC, font Jolly, giao diện Auto nhẹ).",
+    "sha256":  "7979f6c1731d0e09f5263cdcb7d9cec34f94995e98347ae8fb2553351bbd94e1"
 }
