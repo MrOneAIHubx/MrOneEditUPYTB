@@ -1,6 +1,5 @@
 {
-    "version":  "1.12.63",
-    "url":  "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.63/MrOneEditUPYTB_Setup_1.12.63.exe",
-    "notes":  "- Xóa kênh kẹt \"Đang upload\": hộp xác nhận có logo + nút 📋 Copy chữ XÓA; gõ XÓA / XOÁ / xoa đều nhận.\n- Gồm 1.12.61–1.12.62: bộ cài kèm ffmpeg + ffprobe + ffplay + deno; nút 📂 Chọn FFmpeg…; bìa công chiếu MC đối diện chữ, nền video có chữ.",
-    "sha256":  "b7f9d6d392a9f3f47788c6d93c7405d3b093c501686807e03d557da6437627be"
+  "version": "1.12.66",
+  "url": "https://github.com/MrOneAIHubx/MrOneEditUPYTB/releases/download/v1.12.66/MrOneEditUPYTB_Setup_1.12.66.exe",
+  "notes": "- Sửa xuất video KẸT Ở 100% hàng giờ (\"Ghép video 100% … 0.1x\"): FFmpeg tự kết thúc đúng lúc; tới 100% không thoát quá 60 giây thì tool dừng êm, kiểm tra file rồi đi tiếp; đứng yên 20 phút thì tự thử lại.\n- Giao diện / ghi trạng thái chậm không còn làm FFmpeg chậm theo.\n- Auto tạm dừng để cập nhật mà chưa cài: quá 30 phút tự chạy lại (bản 1.12.65 chưa chạy thật).\n- Xoay vòng MC / hiệu ứng / ảnh MC bìa nền ĐEN (hoặc xanh) chưa trong suốt → tự xóa nền, hết viền đen.\n- Font Jolly Lodger: tên có Ệ Ậ Ộ không còn bị đổi sang font khác; font bạn thêm cùng tên được ưu tiên.\n- Sao lưu tự động không nén lại video/ảnh → nhanh hơn nhiều, đỡ nặng máy.\n- Nút ⬇ Cài FFmpeg + Deno (WinGet) → đặt vào thư mục chuẩn của tool.\n- Giao diện Auto nhẹ hơn: chia trang kênh / hàng đợi / đã render, giữ chỗ cuộn (hết nhảy về đầu trang), dựng ngầm rồi tráo (hết nháy), làm mới thông minh, không giữ khóa làm chậm render."
 }
